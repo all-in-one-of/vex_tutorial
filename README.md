@@ -1,4 +1,5 @@
 # VEX tutorial
+
 ## A collection of code snippets and examples showing syntax and capabilities of VEX language inside SideFX Houdini
 <p align="right"><small><sup>by Juraj Tomori</sup></small></p>
 
